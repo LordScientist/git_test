@@ -1,4 +1,4 @@
-# My beginning studies of The Odin Project
+# My beginning exploration of The Odin Project
 "Hello Odin!!,It is I, LordScientist!!"
 This is just a commit message
 
